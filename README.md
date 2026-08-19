@@ -4,7 +4,7 @@ A browser tool for counting tree rings. You draw a line across a photograph of a
 
 No install, no server, no upload. One HTML file.
 
-**[Open the tool →](https://shanaboxer.github.io/Tree-Ring-Counter/)**
+**[Open the tool →](https://shanaboxer.github.io/Tree-Ring-Counter/ring-counter.html)**
 
 ---
 
