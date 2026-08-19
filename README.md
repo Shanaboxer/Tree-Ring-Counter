@@ -4,7 +4,7 @@ A browser tool for counting tree rings. You draw a line across a photograph of a
 
 No install, no server, no upload. One HTML file.
 
-**[Open the tool →](https://YOURNAME.github.io/dendro-bench/)**
+**[Open the tool →](https://shanaboxer.github.io/dendro-bench/)**
 
 ---
 
