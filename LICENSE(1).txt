@@ -1,0 +1,92 @@
+Threshold — Source Available Licence
+Copyright (c) 2026 Lee Angus. All rights reserved.
+
+This is not an open source licence. The source is published so that anyone can
+read it and verify what the software does — particularly its privacy claims —
+not so that it can be reused or redistributed.
+
+
+1. WHAT YOU MAY DO
+
+You may:
+
+  (a) view, read, and study this source code, for any purpose, including
+      security review, privacy auditing, and learning;
+
+  (b) download, build, and run this software on computers you own or control,
+      for your own personal use;
+
+  (c) modify it for your own personal use on those computers;
+
+  (d) quote short excerpts when discussing, reviewing, or reporting on the
+      software, with attribution.
+
+
+2. WHAT YOU MAY NOT DO
+
+Without prior written permission from the copyright holder, you may not:
+
+  (a) redistribute this software or any modified version of it, whether free
+      of charge or for payment, in source or compiled form;
+
+  (b) publish it to any extension store, app store, or software repository;
+
+  (c) sell, licence, rent, or offer it as part of any paid product or service;
+
+  (d) remove or alter this licence, the copyright notice, or any attribution.
+
+
+3. CONTRIBUTIONS
+
+If you submit a change, fix, or addition to this project, you grant the
+copyright holder a perpetual, worldwide, irrevocable, royalty-free licence to
+use, modify, and distribute it as part of this software, including in
+commercial versions. You keep your own copyright in what you wrote.
+
+
+4. THIRD-PARTY MATERIAL
+
+This software downloads and uses public blocklists from the Blocklist Project
+(https://github.com/blocklistproject/Lists), released into the public domain
+under the Unlicense. Those lists are not covered by this licence and remain
+under their own terms.
+
+
+5. NO WARRANTY
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+In particular, and without limiting the above: this software is a filtering
+tool, not a guarantee. Blocklists are compiled by third parties and are never
+complete or perfectly accurate. Some sites will be blocked that should not be,
+and some will not be blocked that you would want blocked. The software can be
+bypassed, disabled, or removed. You remain responsible for your own use of the
+internet and, where applicable, for supervising anyone in your care.
+
+
+6. LIMITATION OF LIABILITY
+
+TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE COPYRIGHT HOLDER
+BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THIS
+SOFTWARE OR ITS USE — including, without limitation, any consequence of a site
+being blocked or of a site not being blocked.
+
+Nothing in this licence limits or excludes liability for death or personal
+injury caused by negligence, for fraud or fraudulent misrepresentation, or for
+any other liability that cannot lawfully be limited or excluded.
+
+
+7. GOVERNING LAW
+
+This licence is governed by the law of Scotland, and the Scottish courts have
+jurisdiction over any dispute arising from it.
+
+
+8. CONTACT
+
+For permission to do anything not allowed above, or for any other enquiry:
+
+Leeangus1977@gmail.com
