@@ -1,4 +1,4 @@
-Threshold — Source Available Licence
+Dendrum — Source Available Licence
 Copyright (c) 2026 Lee Angus. All rights reserved.
 
 This is not an open source licence. The source is published so that anyone can
