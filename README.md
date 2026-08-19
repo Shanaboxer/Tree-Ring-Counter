@@ -155,10 +155,4 @@ This is a measuring aid, not a dendrochronology lab. For research-grade work, us
 
 ---
 
-## Licence
 
-MIT — see [LICENSE](LICENSE).
-
-<!-- Pick a licence before publishing. Without a LICENSE file the default is
-     "all rights reserved": people may read the code but have no permission to
-     use or modify it. Delete this comment once you have decided. -->
