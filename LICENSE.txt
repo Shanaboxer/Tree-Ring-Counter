@@ -1,5 +1,5 @@
 Dendro — Source Available Licence
-Copyright (c) 2026 Lee Angus. All rights reserved.
+Copyright (c) 2026 LJA. All rights reserved.
 
 This is not an open source licence. The source is published so that anyone can
 read it and verify what the software does — particularly its privacy claims —
@@ -89,4 +89,4 @@ jurisdiction over any dispute arising from it.
 
 For permission to do anything not allowed above, or for any other enquiry:
 
-Leeangus1977@gmail.com
+gudwindavids@gmail.com
